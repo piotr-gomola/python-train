@@ -1,0 +1,33 @@
+Wersja A
+
+Napisz program, który będzie wyświetlał na ekranie piramidę złożoną z liczb pierwszych. Parametrem programu ma być liczba naturalna określająca liczbę wierszy piramidy.
+Każdy wiersz ma składać się wyłącznie z nieparzystej liczby liczb pierwszych i ma ich mieć o dwie więcej niż wiersz powyżej.
+Centralną liczbą w wierszu ma być największa, natomiast składowe po lewej i prawej stronie mają być symetryczne względem niej.
+Piramida ma być rysowana od liczby 1.
+
+Wersja B
+Dodaj parametr sterujący oriantacją piramidy, tzn tym, czy ma być rysowana "do góry nogami".
+
+Domyślnie:
+
+  *
+ ***
+*****
+
+Odwrócona:
+
+*****
+ ***
+  *
+
+Wersja C
+Napisz funkcję, która będzie rysować romb złożony z gwiazdek. Funkcja ma przyjmować jeden parametr sterujący długością przekątnej.
+Dla x=7 program powinien narysować poniższą figurę.
+
+   *
+  * *
+ *   *
+*     *
+ *   *
+  * *
+   *
