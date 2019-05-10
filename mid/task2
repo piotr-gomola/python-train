@@ -1,0 +1,4 @@
+Napisz program szyfrujący i deszyfrujący pliki tekstowe.
+Zaprojektowany algorytm szyfrujący ma być odwracalny (szyfrować i dokodować) oraz obsługiwać hasło.
+Program ma wymagać podania hasła celem zaszyfrowania bądź odszyfrowania pliku oraz parametru określającego zleconą
+czynność (kodowanie lub dekodkowanie). Operacja szyfrowania i dekodoania mają tworzyć nowy plik.
